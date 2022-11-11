@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    "name": "Customer group",
+    "name": "Partners group",
     "version": '14.0.0.0.1',
     "depends": ["base", "account"],
     "author": "TIT-Solutions",
