@@ -10,7 +10,7 @@
     "category": "Sales",
     "summary": """This module allows to assign partners to a group """,
     "description": """This module allows to assign partners to a group """,
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'data': [
         'security/ir.model.access.csv',
         'views/res_partner.xml',
